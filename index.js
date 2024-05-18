@@ -1,3 +1,2 @@
-let myname = 1;
-console.log(myname);
-
+let myAge=1;
+console.log(myAge);
